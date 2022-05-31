@@ -1,2 +1,18 @@
 # poison-gas
+
+# cytokine
+https://en.wikipedia.org/wiki/Cytokine
+
+# human teeth
+https://en.wikipedia.org/wiki/Human_tooth
+
+# lung
+https://en.wikipedia.org/wiki/Lung
+
+# stomach
+https://en.wikipedia.org/wiki/Stomach
+
+# pancreas
+https://en.wikipedia.org/wiki/Pancreas
+
 doctor robin in action
